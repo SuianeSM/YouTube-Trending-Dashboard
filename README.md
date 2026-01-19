@@ -1,9 +1,9 @@
-📊 YouTube Trending Dashboard — Análise de Vídeos em Alta
+# 📊 YouTube Trending Dashboard — Análise de Vídeos em Alta
 Sobre o Projeto
 
 Este projeto automatiza a análise de vídeos em tendência no YouTube para apoiar decisões de marketing na agência Sterling & Draper. A ideia é simples: parar de responder as mesmas perguntas toda semana e entregar um dashboard interativo que resolve isso em segundos.
 
-🎯 Objetivo Principal
+## 🎯 Objetivo Principal
 
 Analisar o histórico de vídeos em alta no YouTube e responder rapidamente:
 
@@ -15,7 +15,7 @@ Quais categorias se destacam nos Estados Unidos em comparação a outras regiõe
 
 O dashboard é pensado para uso diário por gerentes de planejamento de anúncios.
 
-📌 Dados Utilizados
+## 📌 Dados Utilizados
 
 Fonte: tabela agregada trending_by_time (exportada como CSV).
 
@@ -33,7 +33,7 @@ videos_count — número de vídeos em alta
 
 Atualização dos dados: 1x por dia (UTC).
 
-🧱 Estrutura do Dashboard
+## 🧱 Estrutura do Dashboard
 Filtros Globais
 
 Filtro de data e hora
@@ -76,14 +76,14 @@ Linhas: categorias
 
 Valores: número absoluto de vídeos em tendência
 
-🛠️ Ferramenta Utilizada
+## 🛠️ Ferramenta Utilizada
 
 Tableau
 
 O dashboard foi publicado publicamente e testado em diferentes navegadores para garantir acesso irrestrito.
 Link: https://public.tableau.com/views/ProjetoSprint12_17654074880460/Dashboard?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
-📈 Análises Respondidas com o Dashboard
+## 📈 Análises Respondidas com o Dashboard
 
 Categorias mais recorrentes em tendências.
 
@@ -95,7 +95,7 @@ Comparação entre preferências dos EUA e de outros países.
 
 Esses insights foram consolidados em uma apresentação curta, com gráficos extraídos diretamente do dashboard.
 
-🚀 Entregáveis
+## 🚀 Entregáveis
 
 Dashboard interativo no Tableau Public.
 
